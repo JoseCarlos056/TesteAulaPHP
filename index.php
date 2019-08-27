@@ -1,5 +1,5 @@
 <?php
 
-echo "Grelo";
+echo "Teste aula";
 
 ?>
